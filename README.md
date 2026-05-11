@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m **Technology-agnostic Software Architect** with 12+ years of experience designing scalable systems, mentoring engineers, and helping product owners turn their ideas into reality. Along the way, I’ve:
+I’m **Technology-agnostic Software Architect** with 13+ years of experience designing scalable systems, mentoring engineers, and helping product owners turn their ideas into reality. Along the way, I’ve:
 - Led **multi-million dollar projects** for Fortune 500 companies.
 - Mentored **400+ engineers** in clean code and system design.
 - Built Centers of Excellence that contributed millions in business value.
